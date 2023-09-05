@@ -41,10 +41,10 @@ expander3.write('問い合わせ3の回答')
 
 
 
-# text = st.text_input('あなたの趣味を教えてください')
-# condition = st.slider('あなたの今の調子は？', 0, 100, 50)
+text = st.text_input('あなたの趣味を教えてください')
+condition = st.slider('あなたの今の調子は？', 0, 100, 50)
 
 
-# 'あなたの趣味:', text, 'です'
-# 'コンディション:', condition
+'あなたの趣味:', text, 'です'
+'コンディション:', condition
 
